@@ -1,5 +1,6 @@
 # My Lorem Ipsum Project
 
+![lorem ipsum](./img/cover.jpg)
 
 ## Contents
 
